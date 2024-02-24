@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oWCCpuEeEElL3Gt4a6hMwEGrPo7ypL1cGmBLthJYQdg=",
+  "Source": "NetCoreYoutobe",
+  "BasePath": "_content/NetCoreYoutobe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
